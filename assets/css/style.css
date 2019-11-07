@@ -1,0 +1,39 @@
+.jumbotron {
+    background-image: url(https://media.giphy.com/media/5xJL0hXcmEuI/giphy.gif);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: white;
+        background-position: 5px;
+}
+
+#header {
+    font-family: 'Bowlby One SC', cursive;
+    color: black;
+    -webkit-text-stroke-width: 2.5px;
+    -webkit-text-stroke-color: white;
+
+}
+
+.card {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.form-group {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#add-train-btn {
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+
+body {
+    background-color: black;
+}
+
+.card {
+    background: rgb(252, 252, 252, .7);
+}
+
